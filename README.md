@@ -5,7 +5,7 @@ This project is a Python-based **Tic Tac Toe game** with an AI opponent, impleme
 
 ---
 
-## Features
+## Feature
 - **Mode of Play**:
   - Player vs AI
 - **AI Intelligence**:
@@ -169,4 +169,5 @@ This project was developed as part of a school assignment to demonstrate:
 ---
 
 Enjoy playing Tic Tac Toe and exploring the code!
+
 
