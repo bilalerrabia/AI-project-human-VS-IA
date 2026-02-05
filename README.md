@@ -168,6 +168,7 @@ This project was developed as part of a school assignment to demonstrate:
 
 ---
 
-Enjoy playing Tic Tac Toe and exploring the code!
+Enjoy playing Tic Tac Toe
+
 
 
