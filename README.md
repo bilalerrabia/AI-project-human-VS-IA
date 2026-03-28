@@ -164,7 +164,6 @@ This project was developed as part of a school assignment to demonstrate:
 - Add a main menu for selecting game modes (e.g., PvP or AI).
 - Enhance AI difficulty levels.
 - Implement animations for moves.
-- Support larger grids (e.g., 4x4 or 5x5).
 
 ---
 
