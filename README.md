@@ -4,7 +4,6 @@
 This project is a Python-based **Tic Tac Toe game** with an AI opponent, implemented using the **pygame** library. The game allows the player to play against the computer, with the AI using the Minimax algorithm to make optimal moves. The project is designed for educational purposes and demonstrates key concepts in game development, artificial intelligence, and Python programming.
 
 ---
-
 ## Feature
 - **Mode of Play**:
   - Player vs AI
