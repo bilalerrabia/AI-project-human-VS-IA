@@ -49,7 +49,6 @@ This project is a Python-based **Tic Tac Toe game** with an AI opponent, impleme
   ```bash
   pip install numpy
   ```
-
 ---
 
 ## Project Structure
