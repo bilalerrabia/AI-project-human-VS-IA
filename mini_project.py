@@ -1,5 +1,3 @@
-"""Tic Tac Toe with a Minimax-powered AI opponent."""
-
 from __future__ import annotations
 
 import random
