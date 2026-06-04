@@ -64,7 +64,3 @@ A Tic Tac Toe game built with Python and Pygame, featuring a Minimax AI and a cl
 
 ---
 
-Enjoy playing Tic Tac Toe.
-
-
-
